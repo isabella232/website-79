@@ -1,0 +1,5 @@
+remote_theme: "mmistakes/so-simple-theme"
+title: Exthereum
+description: Exthereum is an Elixir-based Ethereum client under MIT license.
+layout: default
+logo: ./logo.png
