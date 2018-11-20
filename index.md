@@ -4,7 +4,7 @@ title: Exthereum
 ---
 # News
 
-This project is experimental, and there is no stable release out yet. We welcome contributors!
+*This project has moved! Head over to the [Mana project](https://www.github.com/mana-ethereum/mana).*
 
 # Downloads
 
